@@ -1,0 +1,54 @@
+.header {
+  background: rgb(87, 25, 25);
+  height: 100px;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+.main_content {
+  height: 900px;
+  overflow: hidden;
+}
+.top_left {
+  background: rgb(4, 110, 39);
+  width: 65%;
+  height: 450px;
+  float: left;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+.top_right {
+  background: rgb(148, 83, 115);
+  width: 35%;
+  height: 450px;
+  float: left;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+.bottom_left {
+  background: rgb(24, 4, 4);
+  width: 50%;
+  height: 450px;
+  float: left;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+.bottom_right {
+  background: rgb(76, 60, 107);
+  width: 50%;
+  height: 450px;
+  float: left;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
+.footer {
+  background: rgb(10, 90, 165);
+  height: 80px;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+}
